@@ -1,2 +1,2 @@
 # sm-plugins
-sourcemod plugins that i made
+SourceMod plugins I made. 
